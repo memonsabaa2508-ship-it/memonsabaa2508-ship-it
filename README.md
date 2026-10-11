@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sabaa 👋
 
-<!--
-**memonsabaa2508-ship-it/memonsabaa2508-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BCA student passionate about learning programming and building useful projects.
+
+### 💻 Technologies I'm Learning
+- HTML & CSS
+- JavaScript
+- Flutter
+- Java
+- Spring Boot
+- PHP
+
+### 🚀 My Projects
+- Clothing Website
+- More projects coming soon!
+
+### 🎯 My Goals
+- Improve my coding skills
+- Build real-world projects
+- Learn new technologies
+- Become a skilled software developer
+
+### 📫 Connect With Me
+Feel free to explore my repositories and follow my coding journey!
+
+Thanks for visiting my profile! ✨
